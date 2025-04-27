@@ -1,7 +1,8 @@
 ## Olá, Bem-vindos ao meu Perfil, Me Eduardo👋
 
+---
 
-![Mellow-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellow-lab&show_icons=true&theme=dark)
+![Mellow-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellow-lab&show_icons=true&count_private=true&theme=dark)
 
 ---
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
