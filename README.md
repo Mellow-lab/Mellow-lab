@@ -2,7 +2,7 @@
 
 ---
 
-[![Eduardo Melo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mellow-lab&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/Mellow-lab)
+[![Eduardo Melo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mellow-lab&show_icons=true&theme=radical&count_private=true)](https://github.com/Mellow-lab)
 
 ---
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
