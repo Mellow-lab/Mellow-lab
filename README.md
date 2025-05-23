@@ -1,4 +1,4 @@
-## Olá, Bem-vindos ao meu Perfil, Me Eduardo👋
+## | Hi Everyone, I'm Eduardo👋
 
 ---
 
