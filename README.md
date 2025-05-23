@@ -1,6 +1,7 @@
 ## | Hi Everyone, I'm Eduardo👋
 
 ---
+![Image](https://github.com/user-attachments/assets/18909226-41db-417e-832e-4c0497de7af0)
 
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -16,3 +17,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
